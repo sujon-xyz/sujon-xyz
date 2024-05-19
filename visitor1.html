@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>Crypto Profit Calculator</title>
+</head>
+<body>
+  <h1 id="heading"></h1>
+  <div id="developer">
+    Developer: Sujon Islam || Visitor: <span id="visitorCount">1</span>
+  </div>
+  <div id="totalVisitors"></div>
+
+  <script>
+// ভিজিটর সংখ্যা ফাইলে এড করা
+function addVisitorToFile() {
+    var count = localStorage.getItem('visitorCount') || 0;
+    count++;
+    localStorage.setItem('visitorCount', count);
+
+    // ফাইলে ভিজিটর সংখ্যা এড করা
+    var data = new Blob([count], { type: 'text/plain' });
+    var url = window.URL.createObjectURL(data);
+    var a = document.createElement('a');
+    a.href = url;
+    a.download = 'visitor_count.txt';
+    document.body.appendChild(a);
+    a.click();
+    window.URL.revokeObjectURL(url);
+}
+
+// পেজ লোড হলে ভিজিটর সংখ্যা এড করা এবং ফাইলে সেভ করা
+window.onload = function() {
+    addVisitorToFile();
+}
+
+  </script>
+</body>
+</html>
