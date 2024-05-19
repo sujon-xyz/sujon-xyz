@@ -12,28 +12,32 @@
   <div id="totalVisitors"></div>
 
   <script>
-// ভিজিটর সংখ্যা ফাইলে এড করা
-function addVisitorToFile() {
-    var count = localStorage.getItem('visitorCount') || 0;
+// File path to visitors.txt
+const file = 'visitors.txt';
+
+// Read the current count
+fetch(file)
+  .then(response => response.text())
+  .then(count => {
+    // Increment the count
     count++;
-    localStorage.setItem('visitorCount', count);
 
-    // ফাইলে ভিজিটর সংখ্যা এড করা
-    var data = new Blob([count], { type: 'text/plain' });
-    var url = window.URL.createObjectURL(data);
-    var a = document.createElement('a');
-    a.href = url;
-    a.download = 'visitor_count.txt';
-    document.body.appendChild(a);
-    a.click();
-    window.URL.revokeObjectURL(url);
-}
+    // Write the new count back to the file
+    fetch(file, {
+      method: 'PUT',
+      body: count
+    });
 
-// পেজ লোড হলে ভিজিটর সংখ্যা এড করা এবং ফাইলে সেভ করা
-window.onload = function() {
-    addVisitorToFile();
-}
-
+    // Return the count
+    return count;
+  })
+  .then(count => {
+    // Log the count to console
+    console.log('Visitor count:', count);
+    // Display the count on the website or perform any other actions as needed
+  })
+  .catch(error => console.error('Error:', error));
+  
   </script>
 </body>
 </html>
