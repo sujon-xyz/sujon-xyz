@@ -13,7 +13,7 @@ Hi, I'm Sujon Islam, a web and app developer passionate about creating simple, e
 
 ## GitHub Stats
 
-![Sujon Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujonislam&show_icons=true&theme=radical)
+![Sujon Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujon-xyz&show_icons=true&theme=radical)
 
 ## Top Projects
 
