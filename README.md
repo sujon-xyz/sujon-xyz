@@ -17,8 +17,7 @@ Hi, I'm Sujon Islam, a web and app developer passionate about creating simple, e
 
 ## Top Projects
 
-- **[Project 1](Link to Project 1):** Brief description.
-- **[Project 2](Link to Project 2):** Brief description.
-- **[Project 3](Link to Project 3):** Brief description.
+- **[Project 1](bkash-web.vercel.app):** Bkash phishing  page generator.
+- **[Project 2](crypto-calculate.vercel.app):** cryptocurrency profit calculator.
 
 Explore my repos and let's connect!
