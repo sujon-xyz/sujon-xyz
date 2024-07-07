@@ -27,3 +27,5 @@ Hi, I'm Sujon Islam, a web and app developer passionate about creating simple, e
 - **[Project 4](https://nagad-web.vercel.app/):** Nagad phishing  page generator.
 
 Explore my repos and let's connect!
+
+## <span style="color:red">🌟 Every Masterpiece has its Own Cheap Copies 🌟</span>
