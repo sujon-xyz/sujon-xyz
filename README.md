@@ -28,4 +28,4 @@ Hi, I'm Sujon Islam, a web and app developer passionate about creating simple, e
 
 Explore my repos and let's connect!
 
-<h2 align="center"><span style="color:red">🌟 Every Masterpiece has its Own Cheap Copies 🌟</span></h2>
+## <span style="color:red">🌟 Every Masterpiece has its Own Cheap Copies 🌟</span>
