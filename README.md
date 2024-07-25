@@ -6,6 +6,10 @@ Hi, I'm Sujon Islam, a web and app developer passionate about creating simple, e
 
 - **https://sujon4u.vercel.app**
 
+  ## My official telegram channel 
+
+- **https://t.me/akatsuki_Q_0**
+
 ## About Me
 
 - **🔭 Working on:** Web and mobile apps
