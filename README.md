@@ -16,7 +16,7 @@ Hi, I'm Sujon Islam, a web and app developer passionate about creating simple, e
 - **🌱 Learning:** Advanced JavaScript frameworks, mobile development
 - **👯 Collaborate on:** Open-source web and app projects
 - **💬 Ask me about:** Web development, app development, UI/UX design
-- **📫 Reach me:** [Telegram](https://t.me/Friend_20thX)
+- **📫 Reach me:** [Telegram](https://t.me/sujon_4u)
 - **⚡ Fun fact:** I love integrating new technologies into my projects.
 
 ## GitHub Stats
