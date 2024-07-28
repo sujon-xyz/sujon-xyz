@@ -8,7 +8,7 @@ Hi, I'm Sujon Islam, a web and app developer passionate about creating simple, e
 
 ## My official telegram channel 
 
-- **https://t.me/akatsuki_Q_0**
+- **https://t.me/Freedom_x4u**
 
 ## About Me
 
