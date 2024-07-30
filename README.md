@@ -8,7 +8,7 @@ Hi, I'm Sujon Islam, a web and app developer passionate about creating simple, e
 
 ## My official telegram channel 
 
-- **https://t.me/Freedom_x4u**
+- **https://t.me/Freedom369_4u**
 
 ## About Me
 
@@ -21,7 +21,7 @@ Hi, I'm Sujon Islam, a web and app developer passionate about creating simple, e
 
 ## GitHub Stats
 
-![Sujon Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujon-xyz&show_icons=true&theme=radical)
+![Sujon Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujon4u&show_icons=true&theme=radical)
 
 ## Top Projects
 
